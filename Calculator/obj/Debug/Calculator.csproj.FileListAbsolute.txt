@@ -1,0 +1,27 @@
+H:\C#\Lab Task\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\C#\Lab Task\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\C#\Lab Task\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\C#\Lab Task\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+H:\C#\Lab Task\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\C#\Lab Task\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\C#\Lab Task\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+H:\C#\Lab Task\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\C#\Lab Task\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\rafath\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\rafath\Downloads\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\rafath\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\rafath\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\rafath\Downloads\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\rafath\Downloads\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\rafath\Downloads\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\rafath\Downloads\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\rafath\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\1.1.18\Downloads\Compressed\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
